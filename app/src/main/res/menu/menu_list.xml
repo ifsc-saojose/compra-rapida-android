@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_edit_list_name"
+        android:title="Editar nome"
+        app:icon="@android:drawable/ic_menu_edit" />
+    <item
+        android:id="@+id/menu_delete_list"
+        android:title="Deletar lista"
+        app:icon="@android:drawable/ic_menu_delete" />
+
+    <item
+        android:id="@+id/menu_share_list"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:title="Compartilhar lista"
+        app:icon="@android:drawable/ic_menu_share" />
+
+
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListaTCC</string>
+    <string name="image_button_content_description">Change state of section</string>
+    <string name="activity_label">Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_purchase">Ir as compras</string>
+    <string name="menu_list">Listas</string>
+    <string name="menu_supermarket">Mercados</string>
+    <string name="menu_product">Produtos</string>
+    <string name="menu_history">Histórico</string>
+</resources>

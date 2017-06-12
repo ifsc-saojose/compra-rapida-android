@@ -1,0 +1,476 @@
+{
+  "categories" : [ {
+    "id" : 1,
+    "name" : "HortiFruti"
+  }, {
+    "id" : 2,
+    "name" : "Carnes"
+  }, {
+    "id" : 3,
+    "name" : "Lacticínios"
+  }, {
+    "id" : 4,
+    "name" : "Bebidas"
+  }, {
+    "id" : 5,
+    "name" : "Padaria"
+  }, {
+    "id" : 6,
+    "name" : "Enlatados"
+  }, {
+    "id" : 7,
+    "name" : "Congelados"
+  }, {
+    "id" : 8,
+    "name" : "Alimentos"
+  } ],
+  "products" : [ {
+    "category" : {
+      "id" : 1,
+      "name" : "HortiFruti "
+    },
+    "id" : 1,
+    "name" : "Abacate"
+  }, {
+    "category" : {
+      "id" : 1,
+      "name" : "HortiFruti"
+    },
+    "id" : 2,
+    "name" : "Batata"
+  }, {
+    "category" : {
+      "id" : 1,
+      "name" : "HortiFruti"
+    },
+    "id" : 3,
+    "name" : "Cenoura"
+  }, {
+    "category" : {
+      "id" : 1,
+      "name" : "HortiFruti"
+    },
+    "id" : 4,
+    "name" : "Maça"
+  }, {
+    "category" : {
+      "id" : 1,
+      "name" : "HortiFruti"
+    },
+    "id" : 5,
+    "name" : "Tomate"
+  }, {
+    "category" : {
+      "id" : 1,
+      "name" : "HortiFruti"
+    },
+    "id" : 6,
+    "name" : "Milho"
+  }, {
+    "category" : {
+      "id" : 2,
+      "name" : "Carnes"
+    },
+    "id" : 7,
+    "name" : "Bovina"
+  }, {
+    "category" : {
+      "id" : 2,
+      "name" : "Carnes"
+    },
+    "id" : 8,
+    "name" : "Frango"
+  }, {
+    "category" : {
+      "id" : 2,
+      "name" : "Carnes"
+    },
+    "id" : 9,
+    "name" : "Peixe"
+  }, {
+    "category" : {
+      "id" : 2,
+      "name" : "Carnes"
+    },
+    "id" : 10,
+    "name" : "Porco"
+  }, {
+    "category" : {
+      "id" : 3,
+      "name" : "Laticíneos"
+    },
+    "id" : 11,
+    "name" : "Queijo"
+  }, {
+    "category" : {
+      "id" : 3,
+      "name" : "Laticíneos"
+    },
+    "id" : 12,
+    "name" : "Leite"
+  }, {
+    "category" : {
+      "id" : 3,
+      "name" : "Laticíneos"
+    },
+    "id" : 13,
+    "name" : "Iogurte"
+  }, {
+    "category" : {
+      "id" : 3,
+      "name" : "Laticíneos"
+    },
+    "id" : 14,
+    "name" : "Chocolate"
+  }, {
+    "category" : {
+      "id" : 4,
+      "name" : "Bebidas"
+    },
+    "id" : 15,
+    "name" : "Água"
+  }, {
+    "category" : {
+      "id" : 4,
+      "name" : "Bebidas"
+    },
+    "id" : 16,
+    "name" : "Cerveja"
+  }, {
+    "category" : {
+      "id" : 4,
+      "name" : "Bebidas"
+    },
+    "id" : 17,
+    "name" : "Vinho"
+  }, {
+    "category" : {
+      "id" : 4,
+      "name" : "Bebidas"
+    },
+    "id" : 18,
+    "name" : "Café"
+  }, {
+    "category" : {
+      "id" : 5,
+      "name" : "Padaria"
+    },
+    "id" : 19,
+    "name" : "Biscoito"
+  }, {
+    "category" : {
+      "id" : 5,
+      "name" : "Padaria"
+    },
+    "id" : 20,
+    "name" : "Pães"
+  }, {
+    "category" : {
+      "id" : 5,
+      "name" : "Padaria"
+    },
+    "id" : 21,
+    "name" : "Bolos"
+  }, {
+    "category" : {
+      "id" : 5,
+      "name" : "Padaria"
+    },
+    "id" : 22,
+    "name" : "Torta"
+  }, {
+    "category" : {
+      "id" : 6,
+      "name" : "Enlatados"
+    },
+    "id" : 23,
+    "name" : "pepino"
+  }, {
+    "category" : {
+      "id" : 6,
+      "name" : "Enlatados"
+    },
+    "id" : 24,
+    "name" : "Ervilha"
+  }, {
+    "category" : {
+      "id" : 6,
+      "name" : "Enlatados"
+    },
+    "id" : 25,
+    "name" : "Sardinha"
+  }, {
+    "category" : {
+      "id" : 7,
+      "name" : "Congelados"
+    },
+    "id" : 26,
+    "name" : "Gelo"
+  }, {
+    "category" : {
+      "id" : 7,
+      "name" : "Congelados"
+    },
+    "id" : 27,
+    "name" : "Hamburguer"
+  }, {
+    "category" : {
+      "id" : 7,
+      "name" : "Congelados"
+    },
+    "id" : 28,
+    "name" : "Sorvete"
+  }, {
+    "category" : {
+      "id" : 7,
+      "name" : "Congelados"
+    },
+    "id" : 29,
+    "name" : "Picolé"
+  }, {
+    "category" : {
+      "id" : 8,
+      "name" : "Alimentos"
+    },
+    "id" : 30,
+    "name" : "Arroz"
+  }, {
+    "category" : {
+      "id" : 8,
+      "name" : "Alimentos"
+    },
+    "id" : 31,
+    "name" : "Feijão"
+  }, {
+    "category" : {
+      "id" : 8,
+      "name" : "Alimentos"
+    },
+    "id" : 32,
+    "name" : "Gelatina"
+  }, {
+    "category" : {
+      "id" : 8,
+      "name" : "Alimentos"
+    },
+    "id" : 33,
+    "name" : "Molhos"
+  }, {
+    "category" : {
+      "id" : 8,
+      "name" : "Alimentos"
+    },
+    "id" : 34,
+    "name" : "Sopa"
+  } ],
+  "purchaseItens" : {
+    "-KhKT-FqK694LHg6Cvjw" : [ {
+      "categoryId" : 1,
+      "id" : 5,
+      "name" : "Tomate",
+      "nodeId" : 0,
+      "owner" : "",
+      "status" : 2
+    }, {
+      "categoryId" : 2,
+      "id" : 7,
+      "name" : "Bovina",
+      "nodeId" : 1,
+      "owner" : "",
+      "status" : 0
+    }, {
+      "categoryId" : 3,
+      "id" : 11,
+      "name" : "Queijo",
+      "nodeId" : 2,
+      "owner" : "",
+      "status" : 2
+    }, {
+      "categoryId" : 2,
+      "id" : 10,
+      "name" : "Porco",
+      "nodeId" : 3,
+      "owner" : "",
+      "status" : 0
+    }, {
+      "categoryId" : 1,
+      "id" : 4,
+      "name" : "Maça",
+      "nodeId" : 4,
+      "owner" : "",
+      "status" : 2
+    }, {
+      "categoryId" : 3,
+      "id" : 12,
+      "name" : "Requeijão",
+      "nodeId" : 5,
+      "owner" : "",
+      "status" : 2
+    }, {
+      "categoryId" : 1,
+      "id" : 2,
+      "name" : "Batata",
+      "nodeId" : 6,
+      "owner" : "",
+      "status" : 0
+    } ],
+    "-KhN4du5eDX15g3c18nN" : [ {
+      "categoryId" : 1,
+      "id" : 5,
+      "name" : "Tomate",
+      "nodeId" : 0,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 2,
+      "id" : 7,
+      "name" : "Bovina",
+      "nodeId" : 1,
+      "owner" : "",
+      "status" : 0
+    }, {
+      "categoryId" : 3,
+      "id" : 11,
+      "name" : "Queijo",
+      "nodeId" : 2,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 2,
+      "id" : 10,
+      "name" : "Porco",
+      "nodeId" : 3,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 1,
+      "id" : 4,
+      "name" : "Maça",
+      "nodeId" : 4,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 3,
+      "id" : 12,
+      "name" : "Requeijão",
+      "nodeId" : 5,
+      "owner" : "",
+      "status" : 2
+    }, {
+      "categoryId" : 1,
+      "id" : 2,
+      "name" : "Batata",
+      "nodeId" : 6,
+      "owner" : "",
+      "status" : 1
+    } ],
+    "-Km-jlryVUMs65gjAlAz" : [ {
+      "categoryId" : 1,
+      "id" : 2,
+      "name" : "Batata",
+      "nodeId" : 0,
+      "owner" : "",
+      "status" : 0
+    }, {
+      "categoryId" : 1,
+      "id" : 6,
+      "name" : "Milho",
+      "nodeId" : 1,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 2,
+      "id" : 9,
+      "name" : "Peixe",
+      "nodeId" : 2,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 3,
+      "id" : 11,
+      "name" : "Queijo",
+      "nodeId" : 3,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 3,
+      "id" : 13,
+      "name" : "Iogurte",
+      "nodeId" : 4,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 2,
+      "id" : 8,
+      "name" : "Frango",
+      "nodeId" : 5,
+      "owner" : "",
+      "status" : 0
+    }, {
+      "categoryId" : 4,
+      "id" : 17,
+      "name" : "Vinho",
+      "nodeId" : 6,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 5,
+      "id" : 21,
+      "name" : "Bolos",
+      "nodeId" : 7,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 5,
+      "id" : 20,
+      "name" : "Pães",
+      "nodeId" : 8,
+      "owner" : "",
+      "status" : 0
+    } ],
+    "-Km-loTTZee9SFBl_v_W" : [ {
+      "categoryId" : 2,
+      "id" : 8,
+      "name" : "Frango",
+      "nodeId" : 0,
+      "owner" : "",
+      "status" : 0
+    }, {
+      "categoryId" : 5,
+      "id" : 21,
+      "name" : "Bolos",
+      "nodeId" : 1,
+      "owner" : "",
+      "status" : 0
+    }, {
+      "categoryId" : 1,
+      "id" : 3,
+      "name" : "Cenoura",
+      "nodeId" : 2,
+      "owner" : "",
+      "status" : 0
+    } ],
+    "-Km-mMD1NhELj9MbqI20" : [ {
+      "categoryId" : 1,
+      "id" : 2,
+      "name" : "Batata",
+      "nodeId" : 0,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 1,
+      "id" : 6,
+      "name" : "Milho",
+      "nodeId" : 1,
+      "owner" : "",
+      "status" : 1
+    }, {
+      "categoryId" : 2,
+      "id" : 10,
+      "name" : "Porco",
+      "nodeId" : 2,
+      "owner" : "",
+      "status" : 1
+    } ]
+  }
+}
